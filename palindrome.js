@@ -1,5 +1,6 @@
 function palindrome(str) {
-  return null;
+  if(typeof str === string)
+  return true;
 }
 
 module.exports = palindrome;
